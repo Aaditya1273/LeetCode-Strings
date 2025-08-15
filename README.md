@@ -10,8 +10,8 @@ This repository contains my solutions to various string-related problems on Leet
 |------------|-------|
 | 🔴 Hard    | 1    |
 | 🟡 Medium  | 1    |
-| 🟢 Easy    | 0     |
-| **Total**  | **2**|
+| 🟢 Easy    | 1     |
+| **Total**  | **3**|
 
 ---
 
